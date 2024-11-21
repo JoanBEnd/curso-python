@@ -1,0 +1,19 @@
+
+Haremos un proyecto que permita ingresar por consola cuantas veces sea necesario algun mensaje
+y cuando escribamos la palabra "fin", entonces se cerrará el programa y en pantalla o consola
+imprimirá todo lo que habia ingresado, concatenado. Si el texto que hemos ingresado todo está en minuscula
+o mayuscula, aplicar una funcion para que la primera letra sea Mayuscula y el resto minuscula:
+
+Ejemplo:
+#Entrada:
+Ingresa un mensaje: hola
+Ingresa un mensaje: bienvenido
+Ingresa un mensaje: estamos contentos que estes con nosotros.
+Ingresa un mensaje: fin
+
+Lo que debe mostrar:
+
+#Salida
+Hola. Bienvenido. Estamos contenots que estes con nosotros.
+
+#Cada palabra que se ingreso en la salida muestra la primera letra en mayúscula.

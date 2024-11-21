@@ -1,0 +1,15 @@
+Bibliotecas para instalar:
+
+pip install python
+
+#Para analisis de datos
+pip install jupyter
+pip install numpy
+pip install pandas
+
+#Para gráficas
+pip install matplolib
+
+para hacer el primer proyecto App_1
+pip install folium
+pip install opencv-python

@@ -1,0 +1,58 @@
+[
+    {
+      "nombre": "Misti",
+      "latitud": -16.295,
+      "longitud": -71.403,
+      "altura": 5822,
+      "ubicacion": "Arequipa"
+    },
+    {
+      "nombre": "Sabancaya",
+      "latitud": -15.787,
+      "longitud": -71.857,
+      "altura": 5967,
+      "ubicacion": "Arequipa"
+    },
+    {
+      "nombre": "Ubinas",
+      "latitud": -16.355,
+      "longitud": -70.903,
+      "altura": 5672,
+      "ubicacion": "Moquegua"
+    },
+    {
+      "nombre": "Coropuna",
+      "latitud": -15.521,
+      "longitud": -72.648,
+      "altura": 6377,
+      "ubicacion": "Arequipa"
+    },
+    {
+      "nombre": "Ticsani",
+      "latitud": -16.764,
+      "longitud": -70.796,
+      "altura": 5408,
+      "ubicacion": "Moquegua"
+    },
+    {
+      "nombre": "Chachani",
+      "latitud": -16.171,
+      "longitud": -71.520,
+      "altura": 6057,
+      "ubicacion": "Arequipa"
+    },
+    {
+      "nombre": "Yucamani",
+      "latitud": -17.177,
+      "longitud": -70.875,
+      "altura": 5550,
+      "ubicacion": "Tacna"
+    },
+    {
+      "nombre": "Huaynaputina",
+      "latitud": -16.608,
+      "longitud": -70.849,
+      "altura": 4850,
+      "ubicacion": "Moquegua"
+    }
+  ]
