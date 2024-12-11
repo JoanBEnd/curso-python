@@ -7,9 +7,21 @@ pip install jupyter
 pip install numpy
 pip install pandas
 
+#para leer archivos excel de tipo xls y xlsx con pandas debes instalar:
+pip install openpyxl
+pip install xlrd
+
+
 #Para gráficas
 pip install matplolib
+pip install bokeh
 
 para hacer el primer proyecto App_1
 pip install folium
 pip install opencv-python
+
+ #library for building web apps and data visualization
+ pip install justpy
+
+#library for datetime calculations between timezones
+ pip install pytz

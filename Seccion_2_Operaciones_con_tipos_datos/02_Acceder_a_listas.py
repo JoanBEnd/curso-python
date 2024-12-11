@@ -34,3 +34,5 @@ print(f"El resultado de los dias de semana es: {dia_Semana}")
 print(f"El resultado de fin de semana es: {Fin_Semana}")
 
 ##Al ejecutar el ejercicio ,se está quitando el dia domingo de Fin_Semana y se está agregando a dia_Semana
+
+
