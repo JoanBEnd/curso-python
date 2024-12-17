@@ -4,6 +4,13 @@
 def calcular_area_cuadrado(lado):
     return lado**2
 
+ 
+lado_cuadrado = 15
+resultado_cuadrado = calcular_area_cuadrado(lado_cuadrado)
+print(f"El resultado obtenido para el área del cuadrado es: {resultado_cuadrado}")
+
+
+#=====================================================================================================================================
 
 
 #Crea una función para calcular el área de un rectangulo
@@ -13,32 +20,17 @@ def calcular_area_rectangulo(lado, ancho):
 
 
 
-
-
-"""
-LLamemos a las funciones
-"""
-
-#Funcion 1
-lado_cuadrado = 15
-resultado_cuadrado = calcular_area_cuadrado(lado_cuadrado)
-print(f"El resultado obtenido para el área del cuadrado es: {resultado_cuadrado}")
-
-
-
-
-#Funcion 2
 lado_rec = 15
 ancho_rec = 20
 resultado_recttangulo = calcular_area_rectangulo(lado_rec, ancho_rec)
 print(f"El resultado obtenido para el área del rectangulo es: {resultado_recttangulo}")
 
-
-
-
+ 
  
 
+#=====================================================================================================================================
 
+ 
 
 #Crear una función donde pases los siguientes paramentros:
 # texto 
@@ -63,6 +55,9 @@ print(f"Resultado del texto recortado: {resultado_slicing}")
 
 
 
+#=====================================================================================================================================
+
+ 
 
 #Crea una función que reciba una lista de números y devuelva la suma de todos ellos.
 
@@ -77,6 +72,9 @@ resultado_lista_sum = sumar_lista(mi_lista)
 print(f"Resultado de la lista sumada: {resultado_lista_sum}")
 
 
+#=====================================================================================================================================
+
+ 
 
 #Crea una función que permita contar vocales en un texto
 

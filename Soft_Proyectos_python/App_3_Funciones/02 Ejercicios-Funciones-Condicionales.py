@@ -33,6 +33,7 @@ def filtro_de_pares(list_numeros):
 resultado_pares = filtro_de_pares(list_numbers)
 print(f"Este es el resultado con list comprehesion: {resultado_pares}")
 
+#=====================================================================================================================================
 
  #Crea una funcion que permita calcular el factorial de un numero:
 
@@ -78,6 +79,7 @@ print(f"El resultado del factorial es: {resultado_fact}")
 
 
 
+#=====================================================================================================================================
 
 
 
