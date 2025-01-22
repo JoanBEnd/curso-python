@@ -1,0 +1,13 @@
+Resumen general del proyecto
+    El proyecto utiliza un enfoque modular para dividir la funcionalidad en tres componentes bien definidos:
+
+    calculadora.py: Se encarga de realizar las operaciones matemáticas.
+    operaciones.py: Actúa como un conector entre las opciones del menú y las funciones de las operaciones.
+    main.py: Es la interfaz de usuario que gestiona las entradas, validaciones y lógica principal del flujo del programa.
+    
+    Beneficio del enfoque modular:
+        Hace que el código sea más legible, fácil de mantener y escalable.
+        Cada módulo tiene una responsabilidad clara, lo que facilita la depuración y la reutilización.
+
+
+
